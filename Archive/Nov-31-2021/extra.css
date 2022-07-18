@@ -1,0 +1,14 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gainsboro;
+}
+
+#square{
+    border: lightslategray thin solid;
+    border-radius: 50px;
+    background-color: lightgreen;
+    display: block;
+}
+#square:hover{
+    background-color: lime;
+}

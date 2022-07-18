@@ -1,0 +1,13 @@
+body{
+    font-family: sans-serif;
+    background-color: aquamarine;
+}
+
+#square{
+    border: black thick solid;
+    border-radius: 25px;
+    background-color: cornflowerblue;
+}
+#square:hover{
+    background-color: lightblue;
+}
