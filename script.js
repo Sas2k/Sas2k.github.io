@@ -28,7 +28,7 @@ const type2 = () => {
 }
 $(async function(){
     type()
-    await sleep(5000)
+    await sleep(2500)
     $("#bar2").css("display", "inline");
     type2()
 });
